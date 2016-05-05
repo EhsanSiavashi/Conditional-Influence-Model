@@ -1,7 +1,7 @@
-# Conditional Influence Model
+# Stochastic Modeling of Network Interactions: The Conditional Influence Model
 
-## Ehsan Siavashi
-## Mahshid Rahnamai-Naeini
+### Ehsan Siavashi
+### Mahshid Rahnamai-Naeini
 
 The conditional Influence Model (CIM) is an extension of the Influence Model (IM) introduced by C. Asavathiratham from MIT in 2001. Influence Model is a tractable stochastic model for modeling dynamics of networked Markov Chains (MC). For more information about the influence model please visit [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/33546).
 
